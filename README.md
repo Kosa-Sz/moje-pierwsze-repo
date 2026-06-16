@@ -1,3 +1,5 @@
+InnyConflictText
+
 # moje-pierwsze-repo
 ## Tak naprawdę to nie
 
