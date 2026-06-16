@@ -9,3 +9,7 @@ InnyConflictText
 4. testtesttest
 5. asdasd
 6. Zmiana 1
+
+To jest zmiana1
+To jest zmiana2
+To jest zmiana3
